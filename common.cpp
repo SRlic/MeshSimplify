@@ -12,6 +12,7 @@ bool NearTo(Vertex* v1, Vertex* v2)
 		}
 	}
 	return false;
+	//test
 	
 }
 
