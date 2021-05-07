@@ -12,6 +12,7 @@ bool NearTo(Vertex* v1, Vertex* v2)
 		}
 	}
 	return false;
+	
 }
 
 Vec4 ComputeFace(Vertex* v1, Vertex* v2, Vertex* v3)
